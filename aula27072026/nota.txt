@@ -1,0 +1,77 @@
+todos codigos: 
+    orientado a objeto 
+    organizar classes (folders)
+    comentarios (java.doc...)
+
+filosofia 
+M - dados
+V - interface
+C - regras
+
+ARQUITETURAS DE SITEMAS 
+1) Cliente - Servidor
+    Modelo TCP/IP => Prático x teórico OSI = 7 camadas 
+    4 camadas  
+    APLICAÇÃO 
+    TRANSPORTE 
+    INTERNET
+    REDE 
+
+- BOAS PRÁTICAS
+- REUSO
+- RELEASE CONSTANTE
+
+PEER TO PEER 
+    MODELO TCP/IP 
+
+COMUNICAÇÃO!
+    PORTA
+    ESCRITA NA PORTA
+    MANDA OBJETOS, LISTA, ETC... 
+RECEBER = RECEIVE = READ -- DESERIALIZAR
+CANCOMITANTE(THREADS) ~= PARALELO 
+
+
+PROCESSO
+THREAD  
+    - MINI PROCESSO 
+        * ID 
+        * MEMÓRIA + CPU 
+        * TEMPO DE VIDA 
+        * DECLARAR E WRAP
+        * PAUSAR 
+        * REINICIAR 
+        * FINALIZAR OU MATAR 
+
+THREADS SEM COMPARTILHAR MEMÓRIA
+
+THREAS COM COMPARTILHAMENTO DE MEMÓRIA
+    * BLOQUEIO 
+        - MONITOR 
+        - SEMAFORO 
+        - DEADLOCK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
