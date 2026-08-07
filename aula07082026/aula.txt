@@ -1,0 +1,24 @@
+ponto a ponto(qbittorrent)
+    -descentralização
+
+sistemas distribuido 
+    - heterogeno
+
+comunicação 
+    -multicast
+    -unicast
+
+transporte
+    -UDP
+    -TCP/IP
+
+COMPLEXIDADE
+    -> ESFORÇO
+
+SIMPLES X COMPLEXO
+
+
+
+
+
+
