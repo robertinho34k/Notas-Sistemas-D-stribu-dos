@@ -25,7 +25,7 @@ public class Main {
             vendas1.add(10.0); //10000 +
             vendas2.add(15.0); //15000 +
             vendas3.add(20.0); //20000 +
-            vendas4.add(25.0); //25000 + = 70000 - resultado esperado
+            vendas4.add(25.0); //25000 + = 70000 -> resultado esperado
         }
     
         // Criacao das threads
