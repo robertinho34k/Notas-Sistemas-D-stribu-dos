@@ -1,0 +1,27 @@
+comunicador 
+receber:
+    1- tcp/udp
+    2- Object/ 
+enviar:
+    1-  tcp/udp
+    2-  Object/
+
+Servidor
+    Relogio de Xsegundos 
+    Gera um TOKEN 
+            HASHCODE()
+    Enviando o token para quem o solicita 
+
+
+    em um modelo udp um servidor que gere token a cada x segundo 
+        
+
+SERVIDOR 
+    Cadastrar Usuario: 
+
+
+MEMORIA 
+    RAM
+    CACHE 
+    BUFFER 
+    (CONCEITOS)
